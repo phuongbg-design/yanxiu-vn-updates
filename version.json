@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
   "changelog": "• Phím tắt F9 chỉ ẩn/hiện bảng dịch hộp thoại bên phải, giữ nguyên tooltip nổi và dịch lệnh.\n• Bổ sung kho Hướng dẫn lệnh AutoCAD 2D (Alt+1 Rút gọn / Alt+2 Đầy đủ) và gọi lệnh trực tiếp.\n• Tối ưu nạp Menu Yanxiu Tiếng Việt và khắc phục lỗi khóa file .dll khi nạp lại.",
-  "installer_url": "https://github.com/phuongbg-design/yanxiu-vn-updates/releases/download/untagged-5b36fe08fa88fd515606/Yanxiu_VN_Setup_v1.2.0.exe",
+  "installer_url": "https://github.com/phuongbg-design/yanxiu-vn-updates/releases/download/1.2.0/Yanxiu_VN_Setup_v1.2.0.exe",
   "installer_sha256": "8b7b2e3e45666fd45b9625defc2557766724527898776ee94af3d49dd5ae3bf4"
 }
