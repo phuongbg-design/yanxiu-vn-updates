@@ -2,7 +2,7 @@
   "version": "1.1.1",
   "latest_version": "1.1.1",
   "release_date": "2026-11-24",
-  "installer_url": "https://github.com/phuongbg-design/yanxiu-vn-updates/releases/download/v1.1.1/Yanxiu_VN_Setup_v1.1.1.exe",
+  "installer_url": "https://github.com/phuongbg-design/yanxiu-vn-updates/releases/download/yanxiu_cad_v111/Yanxiu_VN_Setup_v1.1.1.exe",
   "installer_sha256": "",
   "changelog": "- Đồng bộ cụm Điều khiển nhanh & Kho từ điển từ NX VN Studio\n- Thêm nút chuyển chế độ Online / CHỈ OFFLINE thủ công (PRO)\n- Thêm phím tắt F9 ẩn/hiện nhanh bảng dịch hộp thoại AutoCAD\n- Thêm Xuất / Nhập kho từ điển (.ydict / .json) trực tiếp tại Tổng quan\n- Thêm Khoanh vùng quét chữ Trung OCR độ nhạy cao (Ctrl+Shift+Q) và Nạp TXT AI dịch\n- Tối ưu đóng gói, nạp đủ module lõi và tài nguyên OCR",
   "files": []
